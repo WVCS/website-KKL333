@@ -1,3 +1,40 @@
 body {
-
+  background-color: #f7d2df;
+}
+h1 {
+  font-size: 300%;
+  letter-spacing: 2px;
+  color: #b8336a;
+  text-decoration: underline;
+  font-family: "Lucida Handwriting";
+}
+p {
+  font-size: 200%;
+  color: #b8336a;
+}
+img {
+  width: 600px;
+  border-style: ridge;
+  border-color: #abdafc;
+}
+iframe {
+  border-style: dashed;
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-family: "Brush Script MT";
+}
+li {
+  list-style-type: none;
+  float: left;
+}
+li a {
+  padding: 10px;
+  color: #b8336a;
+  border: ridge;
+}
+li a:hover {
+  background-color: #ffb7c3;
+  color: #b8336a;
 }
